@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC -O2 -g   -shared -Wl,-soname,libgtest.so -o ../lib/libgtest.so CMakeFiles/gtest.dir/src/gtest-all.cc.o -L/home/naman/catkin_ws/src/navigation_experimental/pose_follower/gtest/src -lpthread -Wl,-rpath,/home/naman/catkin_ws/src/navigation_experimental/pose_follower/gtest/src 

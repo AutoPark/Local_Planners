@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/parallels/catkin_ws/src/navigation_experimental/pose_follower/build/devel/setup.sh

@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/naman/catkin_ws/src/navigation_experimental/pose_follower/devel/setup.sh
